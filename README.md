@@ -1,6 +1,6 @@
 ## Python Programs
 
-Welcome to the `Python_Programs` repository! This repository serves as a curated collection of various Python scripts and projects, demonstrating fundamental concepts, common algorithms, and practical programming techniques.
+Welcome to the `python_programs` repository! This repository serves as a curated collection of various Python scripts and projects, demonstrating fundamental concepts, common algorithms, and practical programming techniques.
 
 ## About This Repository
 
